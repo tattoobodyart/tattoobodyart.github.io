@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tattoobodyart.github.io/sitemap.xml

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tattoobodyart.github.io/sitemap/sitemap.xsl"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/00001-01000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/01001-02000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/02001-03000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/03001-04000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/04001-05000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/05001-06000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/06001-07000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/07001-08000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/08001-09000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/09001-10000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/10001-11000.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://tattoobodyart.github.io/sitemap/sitemap-misc.xml</loc>
+		<lastmod>2017-03-16T00:00:00+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
